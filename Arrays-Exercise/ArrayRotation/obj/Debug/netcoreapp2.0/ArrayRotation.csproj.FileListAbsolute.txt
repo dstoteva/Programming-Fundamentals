@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\ArrayRotation\bin\Debug\netcoreapp2.0\ArrayRotation.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\ArrayRotation\bin\Debug\netcoreapp2.0\ArrayRotation.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\ArrayRotation\bin\Debug\netcoreapp2.0\ArrayRotation.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\ArrayRotation\bin\Debug\netcoreapp2.0\ArrayRotation.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\ArrayRotation\bin\Debug\netcoreapp2.0\ArrayRotation.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\ArrayRotation\obj\Debug\netcoreapp2.0\ArrayRotation.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\ArrayRotation\obj\Debug\netcoreapp2.0\ArrayRotation.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\ArrayRotation\obj\Debug\netcoreapp2.0\ArrayRotation.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\ArrayRotation\obj\Debug\netcoreapp2.0\ArrayRotation.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\ArrayRotation\obj\Debug\netcoreapp2.0\ArrayRotation.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\ArrayRotation\obj\Debug\netcoreapp2.0\ArrayRotation.pdb

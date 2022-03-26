@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe.config
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.csprojAssemblyReference.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.exe
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.pdb

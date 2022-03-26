@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\SortNumbers\bin\Debug\SortNumbers.exe.config
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\SortNumbers\bin\Debug\SortNumbers.exe
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\SortNumbers\bin\Debug\SortNumbers.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\SortNumbers\obj\Debug\SortNumbers.csprojAssemblyReference.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\SortNumbers\obj\Debug\SortNumbers.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\SortNumbers\obj\Debug\SortNumbers.exe
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\SortNumbers\obj\Debug\SortNumbers.pdb

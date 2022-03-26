@@ -1,0 +1,7 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses-Exercise\AdvertissmentMessage\bin\Debug\AdvertissmentMessage.exe.config
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses-Exercise\AdvertissmentMessage\bin\Debug\AdvertissmentMessage.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses-Exercise\AdvertissmentMessage\bin\Debug\AdvertissmentMessage.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses-Exercise\AdvertissmentMessage\obj\Debug\AdvertissmentMessage.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses-Exercise\AdvertissmentMessage\obj\Debug\AdvertissmentMessage.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses-Exercise\AdvertissmentMessage\obj\Debug\AdvertissmentMessage.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses-Exercise\AdvertissmentMessage\obj\Debug\AdvertissmentMessage.pdb

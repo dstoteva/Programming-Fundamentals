@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\GaussTrick\bin\Debug\netcoreapp2.0\GaussTrick.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\GaussTrick\bin\Debug\netcoreapp2.0\GaussTrick.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\GaussTrick\bin\Debug\netcoreapp2.0\GaussTrick.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\GaussTrick\bin\Debug\netcoreapp2.0\GaussTrick.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\GaussTrick\bin\Debug\netcoreapp2.0\GaussTrick.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\GaussTrick\obj\Debug\netcoreapp2.0\GaussTrick.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\GaussTrick\obj\Debug\netcoreapp2.0\GaussTrick.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\GaussTrick\obj\Debug\netcoreapp2.0\GaussTrick.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\GaussTrick\obj\Debug\netcoreapp2.0\GaussTrick.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\GaussTrick\obj\Debug\netcoreapp2.0\GaussTrick.pdb

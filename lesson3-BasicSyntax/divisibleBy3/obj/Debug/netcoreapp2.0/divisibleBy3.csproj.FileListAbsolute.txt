@@ -1,0 +1,11 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\divisibleBy3\bin\Debug\netcoreapp2.0\divisibleBy3.deps.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\divisibleBy3\bin\Debug\netcoreapp2.0\divisibleBy3.runtimeconfig.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\divisibleBy3\bin\Debug\netcoreapp2.0\divisibleBy3.runtimeconfig.dev.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\divisibleBy3\bin\Debug\netcoreapp2.0\divisibleBy3.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\divisibleBy3\bin\Debug\netcoreapp2.0\divisibleBy3.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\divisibleBy3\obj\Debug\netcoreapp2.0\divisibleBy3.csprojAssemblyReference.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\divisibleBy3\obj\Debug\netcoreapp2.0\divisibleBy3.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\divisibleBy3\obj\Debug\netcoreapp2.0\divisibleBy3.AssemblyInfoInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\divisibleBy3\obj\Debug\netcoreapp2.0\divisibleBy3.AssemblyInfo.cs
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\divisibleBy3\obj\Debug\netcoreapp2.0\divisibleBy3.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\divisibleBy3\obj\Debug\netcoreapp2.0\divisibleBy3.pdb

@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.pdb

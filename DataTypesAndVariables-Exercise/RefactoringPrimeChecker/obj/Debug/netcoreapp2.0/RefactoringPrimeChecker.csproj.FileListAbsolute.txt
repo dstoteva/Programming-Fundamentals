@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\RefactoringPrimeChecker.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\RefactoringPrimeChecker.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\RefactoringPrimeChecker.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\RefactoringPrimeChecker.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\RefactoringPrimeChecker.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\RefactoringPrimeChecker.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\RefactoringPrimeChecker.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\RefactoringPrimeChecker.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\RefactoringPrimeChecker.pdb

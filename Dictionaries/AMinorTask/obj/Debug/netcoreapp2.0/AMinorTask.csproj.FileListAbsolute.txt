@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\AMinorTask\bin\Debug\netcoreapp2.0\AMinorTask.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\AMinorTask\bin\Debug\netcoreapp2.0\AMinorTask.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\AMinorTask\bin\Debug\netcoreapp2.0\AMinorTask.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\AMinorTask\bin\Debug\netcoreapp2.0\AMinorTask.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\AMinorTask\bin\Debug\netcoreapp2.0\AMinorTask.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\AMinorTask\obj\Debug\netcoreapp2.0\AMinorTask.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\AMinorTask\obj\Debug\netcoreapp2.0\AMinorTask.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\AMinorTask\obj\Debug\netcoreapp2.0\AMinorTask.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\AMinorTask\obj\Debug\netcoreapp2.0\AMinorTask.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\AMinorTask\obj\Debug\netcoreapp2.0\AMinorTask.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\AMinorTask\obj\Debug\netcoreapp2.0\AMinorTask.pdb

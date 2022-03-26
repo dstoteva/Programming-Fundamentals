@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.pdb

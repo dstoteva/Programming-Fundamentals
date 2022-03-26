@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\TopIntegers\bin\Debug\netcoreapp2.0\TopIntegers.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\TopIntegers\bin\Debug\netcoreapp2.0\TopIntegers.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\TopIntegers\bin\Debug\netcoreapp2.0\TopIntegers.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\TopIntegers\bin\Debug\netcoreapp2.0\TopIntegers.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\TopIntegers\bin\Debug\netcoreapp2.0\TopIntegers.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\TopIntegers\obj\Debug\netcoreapp2.0\TopIntegers.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\TopIntegers\obj\Debug\netcoreapp2.0\TopIntegers.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\TopIntegers\obj\Debug\netcoreapp2.0\TopIntegers.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\TopIntegers\obj\Debug\netcoreapp2.0\TopIntegers.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\TopIntegers\obj\Debug\netcoreapp2.0\TopIntegers.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\TopIntegers\obj\Debug\netcoreapp2.0\TopIntegers.csprojAssemblyReference.cache

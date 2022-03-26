@@ -1,0 +1,11 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.csprojAssemblyReference.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.AssemblyInfoInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.AssemblyInfo.cs
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.deps.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.runtimeconfig.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.runtimeconfig.dev.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\BackIn30Minutes\bin\Debug\netcoreapp2.0\BackIn30Minutes.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp2.0\BackIn30Minutes.pdb

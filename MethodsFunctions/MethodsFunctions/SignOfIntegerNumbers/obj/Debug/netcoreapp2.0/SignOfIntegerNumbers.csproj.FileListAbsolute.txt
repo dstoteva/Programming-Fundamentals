@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\SignOfIntegerNumbers\bin\Debug\netcoreapp2.0\SignOfIntegerNumbers.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\SignOfIntegerNumbers\bin\Debug\netcoreapp2.0\SignOfIntegerNumbers.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\SignOfIntegerNumbers\bin\Debug\netcoreapp2.0\SignOfIntegerNumbers.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\SignOfIntegerNumbers\bin\Debug\netcoreapp2.0\SignOfIntegerNumbers.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\SignOfIntegerNumbers\bin\Debug\netcoreapp2.0\SignOfIntegerNumbers.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\SignOfIntegerNumbers\obj\Debug\netcoreapp2.0\SignOfIntegerNumbers.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\SignOfIntegerNumbers\obj\Debug\netcoreapp2.0\SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\SignOfIntegerNumbers\obj\Debug\netcoreapp2.0\SignOfIntegerNumbers.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\SignOfIntegerNumbers\obj\Debug\netcoreapp2.0\SignOfIntegerNumbers.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\SignOfIntegerNumbers\obj\Debug\netcoreapp2.0\SignOfIntegerNumbers.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\SignOfIntegerNumbers\obj\Debug\netcoreapp2.0\SignOfIntegerNumbers.pdb

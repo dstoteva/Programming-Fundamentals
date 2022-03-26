@@ -1,0 +1,11 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Ages\bin\Debug\netcoreapp2.0\Ages.deps.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Ages\bin\Debug\netcoreapp2.0\Ages.runtimeconfig.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Ages\bin\Debug\netcoreapp2.0\Ages.runtimeconfig.dev.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Ages\bin\Debug\netcoreapp2.0\Ages.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Ages\bin\Debug\netcoreapp2.0\Ages.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Ages\obj\Debug\netcoreapp2.0\Ages.csprojAssemblyReference.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Ages\obj\Debug\netcoreapp2.0\Ages.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Ages\obj\Debug\netcoreapp2.0\Ages.AssemblyInfoInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Ages\obj\Debug\netcoreapp2.0\Ages.AssemblyInfo.cs
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Ages\obj\Debug\netcoreapp2.0\Ages.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Ages\obj\Debug\netcoreapp2.0\Ages.pdb

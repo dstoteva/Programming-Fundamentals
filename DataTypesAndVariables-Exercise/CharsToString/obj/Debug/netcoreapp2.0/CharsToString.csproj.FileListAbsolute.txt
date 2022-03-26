@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\CharsToString\bin\Debug\netcoreapp2.0\CharsToString.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\CharsToString\bin\Debug\netcoreapp2.0\CharsToString.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\CharsToString\bin\Debug\netcoreapp2.0\CharsToString.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\CharsToString\bin\Debug\netcoreapp2.0\CharsToString.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\CharsToString\bin\Debug\netcoreapp2.0\CharsToString.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\CharsToString\obj\Debug\netcoreapp2.0\CharsToString.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\CharsToString\obj\Debug\netcoreapp2.0\CharsToString.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\CharsToString\obj\Debug\netcoreapp2.0\CharsToString.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\CharsToString\obj\Debug\netcoreapp2.0\CharsToString.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\CharsToString\obj\Debug\netcoreapp2.0\CharsToString.pdb

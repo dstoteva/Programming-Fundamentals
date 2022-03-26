@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\EqualSums\bin\Debug\netcoreapp2.0\EqualSums.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\EqualSums\bin\Debug\netcoreapp2.0\EqualSums.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\EqualSums\bin\Debug\netcoreapp2.0\EqualSums.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\EqualSums\bin\Debug\netcoreapp2.0\EqualSums.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\EqualSums\bin\Debug\netcoreapp2.0\EqualSums.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\EqualSums\obj\Debug\netcoreapp2.0\EqualSums.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\EqualSums\obj\Debug\netcoreapp2.0\EqualSums.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\EqualSums\obj\Debug\netcoreapp2.0\EqualSums.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\EqualSums\obj\Debug\netcoreapp2.0\EqualSums.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\EqualSums\obj\Debug\netcoreapp2.0\EqualSums.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\EqualSums\obj\Debug\netcoreapp2.0\EqualSums.pdb

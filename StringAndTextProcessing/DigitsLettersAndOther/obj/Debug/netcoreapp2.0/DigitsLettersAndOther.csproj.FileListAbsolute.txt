@@ -1,0 +1,11 @@
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp2.0\DigitsLettersAndOther.deps.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp2.0\DigitsLettersAndOther.runtimeconfig.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp2.0\DigitsLettersAndOther.runtimeconfig.dev.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp2.0\DigitsLettersAndOther.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp2.0\DigitsLettersAndOther.pdb
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp2.0\DigitsLettersAndOther.csprojAssemblyReference.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp2.0\DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp2.0\DigitsLettersAndOther.AssemblyInfoInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp2.0\DigitsLettersAndOther.AssemblyInfo.cs
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp2.0\DigitsLettersAndOther.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp2.0\DigitsLettersAndOther.pdb

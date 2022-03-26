@@ -1,0 +1,10 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Division\bin\Debug\netcoreapp2.0\Division.deps.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Division\bin\Debug\netcoreapp2.0\Division.runtimeconfig.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Division\bin\Debug\netcoreapp2.0\Division.runtimeconfig.dev.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Division\bin\Debug\netcoreapp2.0\Division.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Division\bin\Debug\netcoreapp2.0\Division.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Division\obj\Debug\netcoreapp2.0\Division.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Division\obj\Debug\netcoreapp2.0\Division.AssemblyInfoInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Division\obj\Debug\netcoreapp2.0\Division.AssemblyInfo.cs
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Division\obj\Debug\netcoreapp2.0\Division.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Division\obj\Debug\netcoreapp2.0\Division.pdb

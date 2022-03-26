@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\RemoveNegativesAndReverse.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\RemoveNegativesAndReverse.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\RemoveNegativesAndReverse.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\RemoveNegativesAndReverse.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\RemoveNegativesAndReverse.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\RemoveNegativesAndReverse.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\RemoveNegativesAndReverse.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\RemoveNegativesAndReverse.pdb

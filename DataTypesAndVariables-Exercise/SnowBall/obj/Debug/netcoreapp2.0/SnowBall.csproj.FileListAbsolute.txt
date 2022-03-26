@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SnowBall\bin\Debug\netcoreapp2.0\SnowBall.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SnowBall\bin\Debug\netcoreapp2.0\SnowBall.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SnowBall\bin\Debug\netcoreapp2.0\SnowBall.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SnowBall\bin\Debug\netcoreapp2.0\SnowBall.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SnowBall\bin\Debug\netcoreapp2.0\SnowBall.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SnowBall\obj\Debug\netcoreapp2.0\SnowBall.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SnowBall\obj\Debug\netcoreapp2.0\SnowBall.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SnowBall\obj\Debug\netcoreapp2.0\SnowBall.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SnowBall\obj\Debug\netcoreapp2.0\SnowBall.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SnowBall\obj\Debug\netcoreapp2.0\SnowBall.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\SnowBall\obj\Debug\netcoreapp2.0\SnowBall.pdb

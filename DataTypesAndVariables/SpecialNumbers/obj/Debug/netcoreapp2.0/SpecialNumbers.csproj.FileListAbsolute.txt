@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.0\SpecialNumbers.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.0\SpecialNumbers.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.0\SpecialNumbers.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.0\SpecialNumbers.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.0\SpecialNumbers.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.0\SpecialNumbers.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.0\SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.0\SpecialNumbers.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.0\SpecialNumbers.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.0\SpecialNumbers.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.0\SpecialNumbers.pdb

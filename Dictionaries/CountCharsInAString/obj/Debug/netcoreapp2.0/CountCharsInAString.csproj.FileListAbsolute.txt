@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountCharsInAString\bin\Debug\netcoreapp2.0\CountCharsInAString.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountCharsInAString\bin\Debug\netcoreapp2.0\CountCharsInAString.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountCharsInAString\bin\Debug\netcoreapp2.0\CountCharsInAString.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountCharsInAString\bin\Debug\netcoreapp2.0\CountCharsInAString.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountCharsInAString\bin\Debug\netcoreapp2.0\CountCharsInAString.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountCharsInAString\obj\Debug\netcoreapp2.0\CountCharsInAString.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountCharsInAString\obj\Debug\netcoreapp2.0\CountCharsInAString.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountCharsInAString\obj\Debug\netcoreapp2.0\CountCharsInAString.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountCharsInAString\obj\Debug\netcoreapp2.0\CountCharsInAString.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountCharsInAString\obj\Debug\netcoreapp2.0\CountCharsInAString.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountCharsInAString\obj\Debug\netcoreapp2.0\CountCharsInAString.pdb

@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\Train\bin\Debug\netcoreapp2.0\Train.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\Train\bin\Debug\netcoreapp2.0\Train.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\Train\bin\Debug\netcoreapp2.0\Train.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\Train\bin\Debug\netcoreapp2.0\Train.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\Train\bin\Debug\netcoreapp2.0\Train.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\Train\obj\Debug\netcoreapp2.0\Train.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\Train\obj\Debug\netcoreapp2.0\Train.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\Train\obj\Debug\netcoreapp2.0\Train.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\Train\obj\Debug\netcoreapp2.0\Train.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\Train\obj\Debug\netcoreapp2.0\Train.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\Train\obj\Debug\netcoreapp2.0\Train.pdb

@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\IntegerOperationss\bin\Debug\netcoreapp2.0\IntegerOperationss.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\IntegerOperationss\bin\Debug\netcoreapp2.0\IntegerOperationss.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\IntegerOperationss\bin\Debug\netcoreapp2.0\IntegerOperationss.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\IntegerOperationss\bin\Debug\netcoreapp2.0\IntegerOperationss.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\IntegerOperationss\bin\Debug\netcoreapp2.0\IntegerOperationss.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\IntegerOperationss\obj\Debug\netcoreapp2.0\IntegerOperationss.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\IntegerOperationss\obj\Debug\netcoreapp2.0\IntegerOperationss.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\IntegerOperationss\obj\Debug\netcoreapp2.0\IntegerOperationss.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\IntegerOperationss\obj\Debug\netcoreapp2.0\IntegerOperationss.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\IntegerOperationss\obj\Debug\netcoreapp2.0\IntegerOperationss.pdb

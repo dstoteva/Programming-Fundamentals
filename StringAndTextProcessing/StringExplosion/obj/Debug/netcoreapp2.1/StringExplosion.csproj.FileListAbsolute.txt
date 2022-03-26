@@ -1,0 +1,11 @@
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\StringExplosion\bin\Debug\netcoreapp2.1\StringExplosion.deps.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\StringExplosion\bin\Debug\netcoreapp2.1\StringExplosion.runtimeconfig.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\StringExplosion\bin\Debug\netcoreapp2.1\StringExplosion.runtimeconfig.dev.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\StringExplosion\bin\Debug\netcoreapp2.1\StringExplosion.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\StringExplosion\bin\Debug\netcoreapp2.1\StringExplosion.pdb
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\StringExplosion\obj\Debug\netcoreapp2.1\StringExplosion.csprojAssemblyReference.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\StringExplosion\obj\Debug\netcoreapp2.1\StringExplosion.csproj.CoreCompileInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\StringExplosion\obj\Debug\netcoreapp2.1\StringExplosion.AssemblyInfoInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\StringExplosion\obj\Debug\netcoreapp2.1\StringExplosion.AssemblyInfo.cs
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\StringExplosion\obj\Debug\netcoreapp2.1\StringExplosion.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\StringExplosion\obj\Debug\netcoreapp2.1\StringExplosion.pdb

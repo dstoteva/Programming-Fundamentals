@@ -1,0 +1,10 @@
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\ExtractFile\bin\Debug\netcoreapp2.1\ExtractFile.deps.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\ExtractFile\bin\Debug\netcoreapp2.1\ExtractFile.runtimeconfig.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\ExtractFile\bin\Debug\netcoreapp2.1\ExtractFile.runtimeconfig.dev.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\ExtractFile\bin\Debug\netcoreapp2.1\ExtractFile.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\ExtractFile\bin\Debug\netcoreapp2.1\ExtractFile.pdb
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\ExtractFile\obj\Debug\netcoreapp2.1\ExtractFile.csproj.CoreCompileInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\ExtractFile\obj\Debug\netcoreapp2.1\ExtractFile.AssemblyInfoInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\ExtractFile\obj\Debug\netcoreapp2.1\ExtractFile.AssemblyInfo.cs
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\ExtractFile\obj\Debug\netcoreapp2.1\ExtractFile.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\ExtractFile\obj\Debug\netcoreapp2.1\ExtractFile.pdb

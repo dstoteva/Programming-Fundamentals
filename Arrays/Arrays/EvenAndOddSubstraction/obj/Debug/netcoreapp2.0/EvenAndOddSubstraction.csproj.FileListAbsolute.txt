@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\EvenAndOddSubstraction\bin\Debug\netcoreapp2.0\EvenAndOddSubstraction.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\EvenAndOddSubstraction\bin\Debug\netcoreapp2.0\EvenAndOddSubstraction.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\EvenAndOddSubstraction\bin\Debug\netcoreapp2.0\EvenAndOddSubstraction.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\EvenAndOddSubstraction\bin\Debug\netcoreapp2.0\EvenAndOddSubstraction.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\EvenAndOddSubstraction\bin\Debug\netcoreapp2.0\EvenAndOddSubstraction.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\EvenAndOddSubstraction\obj\Debug\netcoreapp2.0\EvenAndOddSubstraction.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\EvenAndOddSubstraction\obj\Debug\netcoreapp2.0\EvenAndOddSubstraction.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\EvenAndOddSubstraction\obj\Debug\netcoreapp2.0\EvenAndOddSubstraction.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\EvenAndOddSubstraction\obj\Debug\netcoreapp2.0\EvenAndOddSubstraction.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\EvenAndOddSubstraction\obj\Debug\netcoreapp2.0\EvenAndOddSubstraction.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\EvenAndOddSubstraction\obj\Debug\netcoreapp2.0\EvenAndOddSubstraction.pdb

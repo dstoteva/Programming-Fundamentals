@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\PoundsToDollars\bin\Debug\netcoreapp2.0\PoundsToDollars.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\PoundsToDollars\bin\Debug\netcoreapp2.0\PoundsToDollars.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\PoundsToDollars\bin\Debug\netcoreapp2.0\PoundsToDollars.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\PoundsToDollars\bin\Debug\netcoreapp2.0\PoundsToDollars.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\PoundsToDollars\bin\Debug\netcoreapp2.0\PoundsToDollars.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\PoundsToDollars\obj\Debug\netcoreapp2.0\PoundsToDollars.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\PoundsToDollars\obj\Debug\netcoreapp2.0\PoundsToDollars.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\PoundsToDollars\obj\Debug\netcoreapp2.0\PoundsToDollars.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\PoundsToDollars\obj\Debug\netcoreapp2.0\PoundsToDollars.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\PoundsToDollars\obj\Debug\netcoreapp2.0\PoundsToDollars.pdb

@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\LowerOrUpper\bin\Debug\netcoreapp2.0\LowerOrUpper.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\LowerOrUpper\bin\Debug\netcoreapp2.0\LowerOrUpper.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\LowerOrUpper\bin\Debug\netcoreapp2.0\LowerOrUpper.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\LowerOrUpper\bin\Debug\netcoreapp2.0\LowerOrUpper.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\LowerOrUpper\bin\Debug\netcoreapp2.0\LowerOrUpper.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\LowerOrUpper\obj\Debug\netcoreapp2.0\LowerOrUpper.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\LowerOrUpper\obj\Debug\netcoreapp2.0\LowerOrUpper.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\LowerOrUpper\obj\Debug\netcoreapp2.0\LowerOrUpper.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\LowerOrUpper\obj\Debug\netcoreapp2.0\LowerOrUpper.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\LowerOrUpper\obj\Debug\netcoreapp2.0\LowerOrUpper.pdb

@@ -1,0 +1,11 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Vacation\bin\Debug\netcoreapp2.0\Vacation.deps.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Vacation\bin\Debug\netcoreapp2.0\Vacation.runtimeconfig.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Vacation\bin\Debug\netcoreapp2.0\Vacation.runtimeconfig.dev.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Vacation\bin\Debug\netcoreapp2.0\Vacation.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Vacation\bin\Debug\netcoreapp2.0\Vacation.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Vacation\obj\Debug\netcoreapp2.0\Vacation.csprojAssemblyReference.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Vacation\obj\Debug\netcoreapp2.0\Vacation.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Vacation\obj\Debug\netcoreapp2.0\Vacation.AssemblyInfoInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Vacation\obj\Debug\netcoreapp2.0\Vacation.AssemblyInfo.cs
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Vacation\obj\Debug\netcoreapp2.0\Vacation.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\Vacation\obj\Debug\netcoreapp2.0\Vacation.pdb

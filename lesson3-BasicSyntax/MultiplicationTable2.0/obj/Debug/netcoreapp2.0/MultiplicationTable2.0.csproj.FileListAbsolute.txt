@@ -1,0 +1,10 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\MultiplicationTable2.0\bin\Debug\netcoreapp2.0\MultiplicationTable2.0.deps.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\MultiplicationTable2.0\bin\Debug\netcoreapp2.0\MultiplicationTable2.0.runtimeconfig.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\MultiplicationTable2.0\bin\Debug\netcoreapp2.0\MultiplicationTable2.0.runtimeconfig.dev.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\MultiplicationTable2.0\bin\Debug\netcoreapp2.0\MultiplicationTable2.0.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\MultiplicationTable2.0\bin\Debug\netcoreapp2.0\MultiplicationTable2.0.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\MultiplicationTable2.0\obj\Debug\netcoreapp2.0\MultiplicationTable2.0.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\MultiplicationTable2.0\obj\Debug\netcoreapp2.0\MultiplicationTable2.0.AssemblyInfoInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\MultiplicationTable2.0\obj\Debug\netcoreapp2.0\MultiplicationTable2.0.AssemblyInfo.cs
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\MultiplicationTable2.0\obj\Debug\netcoreapp2.0\MultiplicationTable2.0.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\MultiplicationTable2.0\obj\Debug\netcoreapp2.0\MultiplicationTable2.0.pdb

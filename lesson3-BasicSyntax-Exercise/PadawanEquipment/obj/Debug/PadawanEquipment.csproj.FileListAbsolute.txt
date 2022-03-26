@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PadawanEquipment\bin\Debug\PadawanEquipment.exe.config
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PadawanEquipment\bin\Debug\PadawanEquipment.exe
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PadawanEquipment\bin\Debug\PadawanEquipment.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PadawanEquipment\obj\Debug\PadawanEquipment.csprojAssemblyReference.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PadawanEquipment\obj\Debug\PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PadawanEquipment\obj\Debug\PadawanEquipment.exe
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PadawanEquipment\obj\Debug\PadawanEquipment.pdb

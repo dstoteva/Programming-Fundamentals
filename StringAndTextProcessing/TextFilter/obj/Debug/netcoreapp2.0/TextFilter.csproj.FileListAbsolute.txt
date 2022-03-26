@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.pdb

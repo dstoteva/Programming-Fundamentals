@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.pdb

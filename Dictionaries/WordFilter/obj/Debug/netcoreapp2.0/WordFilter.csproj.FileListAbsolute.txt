@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordFilter\bin\Debug\netcoreapp2.0\WordFilter.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordFilter\bin\Debug\netcoreapp2.0\WordFilter.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordFilter\bin\Debug\netcoreapp2.0\WordFilter.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordFilter\bin\Debug\netcoreapp2.0\WordFilter.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordFilter\bin\Debug\netcoreapp2.0\WordFilter.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordFilter\obj\Debug\netcoreapp2.0\WordFilter.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordFilter\obj\Debug\netcoreapp2.0\WordFilter.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordFilter\obj\Debug\netcoreapp2.0\WordFilter.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordFilter\obj\Debug\netcoreapp2.0\WordFilter.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordFilter\obj\Debug\netcoreapp2.0\WordFilter.pdb

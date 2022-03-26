@@ -1,0 +1,11 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\StudentInformation\bin\Debug\netcoreapp2.0\StudentInformation.deps.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\StudentInformation\bin\Debug\netcoreapp2.0\StudentInformation.runtimeconfig.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\StudentInformation\bin\Debug\netcoreapp2.0\StudentInformation.runtimeconfig.dev.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\StudentInformation\bin\Debug\netcoreapp2.0\StudentInformation.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\StudentInformation\bin\Debug\netcoreapp2.0\StudentInformation.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\StudentInformation\obj\Debug\netcoreapp2.0\StudentInformation.csprojAssemblyReference.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\StudentInformation\obj\Debug\netcoreapp2.0\StudentInformation.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\StudentInformation\obj\Debug\netcoreapp2.0\StudentInformation.AssemblyInfoInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\StudentInformation\obj\Debug\netcoreapp2.0\StudentInformation.AssemblyInfo.cs
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\StudentInformation\obj\Debug\netcoreapp2.0\StudentInformation.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\StudentInformation\obj\Debug\netcoreapp2.0\StudentInformation.pdb

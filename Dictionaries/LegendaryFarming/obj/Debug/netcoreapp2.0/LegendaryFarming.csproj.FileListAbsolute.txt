@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.pdb

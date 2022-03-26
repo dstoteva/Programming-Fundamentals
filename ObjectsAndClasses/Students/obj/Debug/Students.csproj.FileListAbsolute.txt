@@ -1,0 +1,7 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Students\bin\Debug\Students.exe.config
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Students\bin\Debug\Students.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Students\bin\Debug\Students.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Students\obj\Debug\Students.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Students\obj\Debug\Students.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Students\obj\Debug\Students.pdb

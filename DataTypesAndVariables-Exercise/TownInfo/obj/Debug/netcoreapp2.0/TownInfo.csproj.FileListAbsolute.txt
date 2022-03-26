@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\TownInfo\bin\Debug\netcoreapp2.0\TownInfo.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\TownInfo\bin\Debug\netcoreapp2.0\TownInfo.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\TownInfo\bin\Debug\netcoreapp2.0\TownInfo.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\TownInfo\bin\Debug\netcoreapp2.0\TownInfo.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\TownInfo\bin\Debug\netcoreapp2.0\TownInfo.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\TownInfo\obj\Debug\netcoreapp2.0\TownInfo.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\TownInfo\obj\Debug\netcoreapp2.0\TownInfo.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\TownInfo\obj\Debug\netcoreapp2.0\TownInfo.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\TownInfo\obj\Debug\netcoreapp2.0\TownInfo.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\TownInfo\obj\Debug\netcoreapp2.0\TownInfo.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\TownInfo\obj\Debug\netcoreapp2.0\TownInfo.pdb

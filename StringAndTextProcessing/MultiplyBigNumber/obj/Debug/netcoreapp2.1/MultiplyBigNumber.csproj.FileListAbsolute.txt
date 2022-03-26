@@ -1,0 +1,11 @@
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.deps.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.runtimeconfig.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.runtimeconfig.dev.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.pdb
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.csprojAssemblyReference.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.AssemblyInfoInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.AssemblyInfo.cs
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.pdb

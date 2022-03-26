@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp2.0\ListManipulationAdvanced.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp2.0\ListManipulationAdvanced.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp2.0\ListManipulationAdvanced.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp2.0\ListManipulationAdvanced.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp2.0\ListManipulationAdvanced.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp2.0\ListManipulationAdvanced.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp2.0\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp2.0\ListManipulationAdvanced.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp2.0\ListManipulationAdvanced.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp2.0\ListManipulationAdvanced.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp2.0\ListManipulationAdvanced.pdb

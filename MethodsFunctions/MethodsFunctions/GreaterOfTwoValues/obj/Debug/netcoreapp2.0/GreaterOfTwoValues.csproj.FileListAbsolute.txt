@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\GreaterOfTwoValues\bin\Debug\netcoreapp2.0\GreaterOfTwoValues.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\GreaterOfTwoValues\bin\Debug\netcoreapp2.0\GreaterOfTwoValues.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\GreaterOfTwoValues\bin\Debug\netcoreapp2.0\GreaterOfTwoValues.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\GreaterOfTwoValues\bin\Debug\netcoreapp2.0\GreaterOfTwoValues.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\GreaterOfTwoValues\bin\Debug\netcoreapp2.0\GreaterOfTwoValues.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp2.0\GreaterOfTwoValues.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp2.0\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp2.0\GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp2.0\GreaterOfTwoValues.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp2.0\GreaterOfTwoValues.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp2.0\GreaterOfTwoValues.pdb

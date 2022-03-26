@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\EnglishNameOfTheLastDigit-Method\bin\Debug\EnglishNameOfTheLastDigit-Method.exe.config
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\EnglishNameOfTheLastDigit-Method\bin\Debug\EnglishNameOfTheLastDigit-Method.exe
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\EnglishNameOfTheLastDigit-Method\bin\Debug\EnglishNameOfTheLastDigit-Method.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\EnglishNameOfTheLastDigit-Method\obj\Debug\EnglishNameOfTheLastDigit-Method.csprojAssemblyReference.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\EnglishNameOfTheLastDigit-Method\obj\Debug\EnglishNameOfTheLastDigit-Method.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\EnglishNameOfTheLastDigit-Method\obj\Debug\EnglishNameOfTheLastDigit-Method.exe
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\EnglishNameOfTheLastDigit-Method\obj\Debug\EnglishNameOfTheLastDigit-Method.pdb

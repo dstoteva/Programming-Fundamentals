@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\CardsGame\bin\Debug\netcoreapp2.0\CardsGame.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\CardsGame\bin\Debug\netcoreapp2.0\CardsGame.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\CardsGame\bin\Debug\netcoreapp2.0\CardsGame.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\CardsGame\bin\Debug\netcoreapp2.0\CardsGame.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\CardsGame\bin\Debug\netcoreapp2.0\CardsGame.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\CardsGame\obj\Debug\netcoreapp2.0\CardsGame.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\CardsGame\obj\Debug\netcoreapp2.0\CardsGame.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\CardsGame\obj\Debug\netcoreapp2.0\CardsGame.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\CardsGame\obj\Debug\netcoreapp2.0\CardsGame.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\CardsGame\obj\Debug\netcoreapp2.0\CardsGame.pdb

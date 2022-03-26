@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\DataTypeFinder\bin\Debug\netcoreapp2.0\DataTypeFinder.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\DataTypeFinder\bin\Debug\netcoreapp2.0\DataTypeFinder.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\DataTypeFinder\bin\Debug\netcoreapp2.0\DataTypeFinder.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\DataTypeFinder\bin\Debug\netcoreapp2.0\DataTypeFinder.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\DataTypeFinder\bin\Debug\netcoreapp2.0\DataTypeFinder.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\DataTypeFinder\obj\Debug\netcoreapp2.0\DataTypeFinder.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\DataTypeFinder\obj\Debug\netcoreapp2.0\DataTypeFinder.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\DataTypeFinder\obj\Debug\netcoreapp2.0\DataTypeFinder.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\DataTypeFinder\obj\Debug\netcoreapp2.0\DataTypeFinder.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\DataTypeFinder\obj\Debug\netcoreapp2.0\DataTypeFinder.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables-Exercise\DataTypeFinder\obj\Debug\netcoreapp2.0\DataTypeFinder.pdb

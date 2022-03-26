@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.pdb

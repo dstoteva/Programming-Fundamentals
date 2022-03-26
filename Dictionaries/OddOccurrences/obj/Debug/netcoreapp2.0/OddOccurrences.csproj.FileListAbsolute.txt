@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.pdb

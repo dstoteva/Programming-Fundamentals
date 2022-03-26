@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\MergingLists\obj\Debug\netcoreapp2.0\MergingLists.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\MergingLists\obj\Debug\netcoreapp2.0\MergingLists.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\MergingLists\obj\Debug\netcoreapp2.0\MergingLists.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\MergingLists\obj\Debug\netcoreapp2.0\MergingLists.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\MergingLists\bin\Debug\netcoreapp2.0\MergingLists.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\MergingLists\bin\Debug\netcoreapp2.0\MergingLists.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\MergingLists\bin\Debug\netcoreapp2.0\MergingLists.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\MergingLists\bin\Debug\netcoreapp2.0\MergingLists.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\MergingLists\bin\Debug\netcoreapp2.0\MergingLists.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\MergingLists\obj\Debug\netcoreapp2.0\MergingLists.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Lists\MergingLists\obj\Debug\netcoreapp2.0\MergingLists.pdb

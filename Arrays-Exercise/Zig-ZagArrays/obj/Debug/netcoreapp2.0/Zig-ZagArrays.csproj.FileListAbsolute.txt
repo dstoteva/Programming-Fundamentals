@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\Zig-ZagArrays\bin\Debug\netcoreapp2.0\Zig-ZagArrays.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\Zig-ZagArrays\bin\Debug\netcoreapp2.0\Zig-ZagArrays.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\Zig-ZagArrays\bin\Debug\netcoreapp2.0\Zig-ZagArrays.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\Zig-ZagArrays\bin\Debug\netcoreapp2.0\Zig-ZagArrays.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\Zig-ZagArrays\bin\Debug\netcoreapp2.0\Zig-ZagArrays.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\Zig-ZagArrays\obj\Debug\netcoreapp2.0\Zig-ZagArrays.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\Zig-ZagArrays\obj\Debug\netcoreapp2.0\Zig-ZagArrays.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\Zig-ZagArrays\obj\Debug\netcoreapp2.0\Zig-ZagArrays.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\Zig-ZagArrays\obj\Debug\netcoreapp2.0\Zig-ZagArrays.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\Zig-ZagArrays\obj\Debug\netcoreapp2.0\Zig-ZagArrays.pdb

@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\ListOperations\bin\Debug\netcoreapp2.0\ListOperations.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\ListOperations\bin\Debug\netcoreapp2.0\ListOperations.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\ListOperations\bin\Debug\netcoreapp2.0\ListOperations.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\ListOperations\bin\Debug\netcoreapp2.0\ListOperations.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\ListOperations\bin\Debug\netcoreapp2.0\ListOperations.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\ListOperations\obj\Debug\netcoreapp2.0\ListOperations.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\ListOperations\obj\Debug\netcoreapp2.0\ListOperations.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\ListOperations\obj\Debug\netcoreapp2.0\ListOperations.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\ListOperations\obj\Debug\netcoreapp2.0\ListOperations.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\ListOperations\obj\Debug\netcoreapp2.0\ListOperations.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ListsExercise\ListOperations\obj\Debug\netcoreapp2.0\ListOperations.pdb

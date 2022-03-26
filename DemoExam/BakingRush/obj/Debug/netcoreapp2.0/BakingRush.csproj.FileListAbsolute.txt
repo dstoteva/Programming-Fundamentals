@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\BakingRush\bin\Debug\netcoreapp2.0\BakingRush.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\BakingRush\bin\Debug\netcoreapp2.0\BakingRush.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\BakingRush\bin\Debug\netcoreapp2.0\BakingRush.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\BakingRush\bin\Debug\netcoreapp2.0\BakingRush.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\BakingRush\bin\Debug\netcoreapp2.0\BakingRush.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\BakingRush\obj\Debug\netcoreapp2.0\BakingRush.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\BakingRush\obj\Debug\netcoreapp2.0\BakingRush.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\BakingRush\obj\Debug\netcoreapp2.0\BakingRush.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\BakingRush\obj\Debug\netcoreapp2.0\BakingRush.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\BakingRush\obj\Debug\netcoreapp2.0\BakingRush.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\BakingRush\obj\Debug\netcoreapp2.0\BakingRush.pdb

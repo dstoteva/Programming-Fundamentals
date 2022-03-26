@@ -1,0 +1,7 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Songs\bin\Debug\Songs.exe.config
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Songs\bin\Debug\Songs.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Songs\bin\Debug\Songs.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Songs\obj\Debug\Songs.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Songs\obj\Debug\Songs.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Songs\obj\Debug\Songs.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\Songs\obj\Debug\Songs.pdb

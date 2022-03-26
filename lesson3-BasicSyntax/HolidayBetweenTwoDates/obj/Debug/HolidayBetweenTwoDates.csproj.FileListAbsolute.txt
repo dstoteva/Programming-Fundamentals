@@ -1,0 +1,7 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\HolidayBetweenTwoDates\bin\Debug\HolidayBetweenTwoDates.exe.config
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\HolidayBetweenTwoDates\bin\Debug\HolidayBetweenTwoDates.exe
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\HolidayBetweenTwoDates\bin\Debug\HolidayBetweenTwoDates.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\HolidayBetweenTwoDates\obj\Debug\HolidayBetweenTwoDates.csprojAssemblyReference.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\HolidayBetweenTwoDates\obj\Debug\HolidayBetweenTwoDates.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\HolidayBetweenTwoDates\obj\Debug\HolidayBetweenTwoDates.exe
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\HolidayBetweenTwoDates\obj\Debug\HolidayBetweenTwoDates.pdb

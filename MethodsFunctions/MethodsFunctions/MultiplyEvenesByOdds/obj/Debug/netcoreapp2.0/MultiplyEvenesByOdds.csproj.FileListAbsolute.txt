@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\MultiplyEvenesByOdds\bin\Debug\netcoreapp2.0\MultiplyEvenesByOdds.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\MultiplyEvenesByOdds\bin\Debug\netcoreapp2.0\MultiplyEvenesByOdds.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\MultiplyEvenesByOdds\bin\Debug\netcoreapp2.0\MultiplyEvenesByOdds.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\MultiplyEvenesByOdds\bin\Debug\netcoreapp2.0\MultiplyEvenesByOdds.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\MultiplyEvenesByOdds\bin\Debug\netcoreapp2.0\MultiplyEvenesByOdds.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\MultiplyEvenesByOdds\obj\Debug\netcoreapp2.0\MultiplyEvenesByOdds.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\MultiplyEvenesByOdds\obj\Debug\netcoreapp2.0\MultiplyEvenesByOdds.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\MultiplyEvenesByOdds\obj\Debug\netcoreapp2.0\MultiplyEvenesByOdds.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\MultiplyEvenesByOdds\obj\Debug\netcoreapp2.0\MultiplyEvenesByOdds.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\MultiplyEvenesByOdds\obj\Debug\netcoreapp2.0\MultiplyEvenesByOdds.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions\MethodsFunctions\MultiplyEvenesByOdds\obj\Debug\netcoreapp2.0\MultiplyEvenesByOdds.pdb

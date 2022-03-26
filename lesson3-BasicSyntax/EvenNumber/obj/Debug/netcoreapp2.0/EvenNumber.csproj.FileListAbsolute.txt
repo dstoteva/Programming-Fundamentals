@@ -1,0 +1,11 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\EvenNumber\bin\Debug\netcoreapp2.0\EvenNumber.deps.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\EvenNumber\bin\Debug\netcoreapp2.0\EvenNumber.runtimeconfig.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\EvenNumber\bin\Debug\netcoreapp2.0\EvenNumber.runtimeconfig.dev.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\EvenNumber\bin\Debug\netcoreapp2.0\EvenNumber.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\EvenNumber\bin\Debug\netcoreapp2.0\EvenNumber.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\EvenNumber\obj\Debug\netcoreapp2.0\EvenNumber.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\EvenNumber\obj\Debug\netcoreapp2.0\EvenNumber.AssemblyInfoInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\EvenNumber\obj\Debug\netcoreapp2.0\EvenNumber.AssemblyInfo.cs
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\EvenNumber\obj\Debug\netcoreapp2.0\EvenNumber.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\EvenNumber\obj\Debug\netcoreapp2.0\EvenNumber.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax\EvenNumber\obj\Debug\netcoreapp2.0\EvenNumber.csprojAssemblyReference.cache

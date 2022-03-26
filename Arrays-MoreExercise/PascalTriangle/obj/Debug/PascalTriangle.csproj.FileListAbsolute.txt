@@ -1,0 +1,7 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\PascalTriangle\bin\Debug\PascalTriangle.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\PascalTriangle\bin\Debug\PascalTriangle.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\PascalTriangle\obj\Debug\PascalTriangle.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\PascalTriangle\obj\Debug\PascalTriangle.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\PascalTriangle\obj\Debug\PascalTriangle.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\PascalTriangle\obj\Debug\PascalTriangle.pdb

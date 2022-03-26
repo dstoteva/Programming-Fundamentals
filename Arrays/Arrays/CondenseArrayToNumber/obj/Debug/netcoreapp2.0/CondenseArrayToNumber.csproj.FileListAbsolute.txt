@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp2.0\CondenseArrayToNumber.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp2.0\CondenseArrayToNumber.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp2.0\CondenseArrayToNumber.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp2.0\CondenseArrayToNumber.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp2.0\CondenseArrayToNumber.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp2.0\CondenseArrayToNumber.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp2.0\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp2.0\CondenseArrayToNumber.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp2.0\CondenseArrayToNumber.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp2.0\CondenseArrayToNumber.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp2.0\CondenseArrayToNumber.pdb

@@ -1,0 +1,7 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\NakingFactory\bin\Debug\NakingFactory.exe.config
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\NakingFactory\bin\Debug\NakingFactory.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\NakingFactory\bin\Debug\NakingFactory.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\NakingFactory\obj\Debug\NakingFactory.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\NakingFactory\obj\Debug\NakingFactory.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\NakingFactory\obj\Debug\NakingFactory.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DemoExam\NakingFactory\obj\Debug\NakingFactory.pdb

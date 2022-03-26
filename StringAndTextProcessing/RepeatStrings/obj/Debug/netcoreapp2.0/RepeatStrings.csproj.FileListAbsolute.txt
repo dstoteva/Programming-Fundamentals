@@ -1,0 +1,11 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RepeatStrings\bin\Debug\netcoreapp2.0\RepeatStrings.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RepeatStrings\bin\Debug\netcoreapp2.0\RepeatStrings.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RepeatStrings\bin\Debug\netcoreapp2.0\RepeatStrings.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RepeatStrings\bin\Debug\netcoreapp2.0\RepeatStrings.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RepeatStrings\bin\Debug\netcoreapp2.0\RepeatStrings.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp2.0\RepeatStrings.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp2.0\RepeatStrings.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp2.0\RepeatStrings.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp2.0\RepeatStrings.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp2.0\RepeatStrings.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp2.0\RepeatStrings.pdb

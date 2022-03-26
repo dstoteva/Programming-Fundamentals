@@ -1,0 +1,11 @@
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\LettersChangeNumber\bin\Debug\netcoreapp2.1\LettersChangeNumber.deps.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\LettersChangeNumber\bin\Debug\netcoreapp2.1\LettersChangeNumber.runtimeconfig.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\LettersChangeNumber\bin\Debug\netcoreapp2.1\LettersChangeNumber.runtimeconfig.dev.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\LettersChangeNumber\bin\Debug\netcoreapp2.1\LettersChangeNumber.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\LettersChangeNumber\bin\Debug\netcoreapp2.1\LettersChangeNumber.pdb
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\LettersChangeNumber\obj\Debug\netcoreapp2.1\LettersChangeNumber.csprojAssemblyReference.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\LettersChangeNumber\obj\Debug\netcoreapp2.1\LettersChangeNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\LettersChangeNumber\obj\Debug\netcoreapp2.1\LettersChangeNumber.AssemblyInfoInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\LettersChangeNumber\obj\Debug\netcoreapp2.1\LettersChangeNumber.AssemblyInfo.cs
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\LettersChangeNumber\obj\Debug\netcoreapp2.1\LettersChangeNumber.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\LettersChangeNumber\obj\Debug\netcoreapp2.1\LettersChangeNumber.pdb

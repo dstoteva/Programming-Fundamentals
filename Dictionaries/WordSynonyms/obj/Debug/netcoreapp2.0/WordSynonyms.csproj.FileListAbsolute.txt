@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordSynonyms\bin\Debug\netcoreapp2.0\WordSynonyms.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordSynonyms\bin\Debug\netcoreapp2.0\WordSynonyms.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordSynonyms\bin\Debug\netcoreapp2.0\WordSynonyms.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordSynonyms\bin\Debug\netcoreapp2.0\WordSynonyms.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordSynonyms\bin\Debug\netcoreapp2.0\WordSynonyms.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordSynonyms\obj\Debug\netcoreapp2.0\WordSynonyms.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordSynonyms\obj\Debug\netcoreapp2.0\WordSynonyms.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordSynonyms\obj\Debug\netcoreapp2.0\WordSynonyms.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordSynonyms\obj\Debug\netcoreapp2.0\WordSynonyms.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Dictionaries\WordSynonyms\obj\Debug\netcoreapp2.0\WordSynonyms.pdb

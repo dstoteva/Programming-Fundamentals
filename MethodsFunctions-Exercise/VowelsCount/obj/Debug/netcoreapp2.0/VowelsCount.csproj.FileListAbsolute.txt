@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions-Exercise\VowelsCount\bin\Debug\netcoreapp2.0\VowelsCount.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions-Exercise\VowelsCount\bin\Debug\netcoreapp2.0\VowelsCount.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions-Exercise\VowelsCount\bin\Debug\netcoreapp2.0\VowelsCount.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions-Exercise\VowelsCount\bin\Debug\netcoreapp2.0\VowelsCount.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions-Exercise\VowelsCount\bin\Debug\netcoreapp2.0\VowelsCount.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions-Exercise\VowelsCount\obj\Debug\netcoreapp2.0\VowelsCount.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions-Exercise\VowelsCount\obj\Debug\netcoreapp2.0\VowelsCount.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions-Exercise\VowelsCount\obj\Debug\netcoreapp2.0\VowelsCount.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions-Exercise\VowelsCount\obj\Debug\netcoreapp2.0\VowelsCount.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\MethodsFunctions-Exercise\VowelsCount\obj\Debug\netcoreapp2.0\VowelsCount.pdb

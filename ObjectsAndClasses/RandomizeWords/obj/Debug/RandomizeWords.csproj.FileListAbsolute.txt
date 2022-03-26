@@ -1,0 +1,6 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\RandomizeWords\bin\Debug\RandomizeWords.exe.config
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\RandomizeWords\bin\Debug\RandomizeWords.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\RandomizeWords\bin\Debug\RandomizeWords.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\RandomizeWords\obj\Debug\RandomizeWords.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\RandomizeWords\obj\Debug\RandomizeWords.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\ObjectsAndClasses\RandomizeWords\obj\Debug\RandomizeWords.pdb

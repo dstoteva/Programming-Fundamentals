@@ -1,0 +1,11 @@
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.deps.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.runtimeconfig.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.runtimeconfig.dev.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.pdb
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.csprojAssemblyReference.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.csproj.CoreCompileInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.AssemblyInfoInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.AssemblyInfo.cs
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.pdb

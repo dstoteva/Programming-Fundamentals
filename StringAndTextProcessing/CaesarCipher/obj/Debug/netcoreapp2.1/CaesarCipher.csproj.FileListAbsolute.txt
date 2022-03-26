@@ -1,0 +1,11 @@
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\CaesarCipher\bin\Debug\netcoreapp2.1\CaesarCipher.deps.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\CaesarCipher\bin\Debug\netcoreapp2.1\CaesarCipher.runtimeconfig.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\CaesarCipher\bin\Debug\netcoreapp2.1\CaesarCipher.runtimeconfig.dev.json
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\CaesarCipher\bin\Debug\netcoreapp2.1\CaesarCipher.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\CaesarCipher\bin\Debug\netcoreapp2.1\CaesarCipher.pdb
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\CaesarCipher\obj\Debug\netcoreapp2.1\CaesarCipher.csprojAssemblyReference.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\CaesarCipher\obj\Debug\netcoreapp2.1\CaesarCipher.csproj.CoreCompileInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\CaesarCipher\obj\Debug\netcoreapp2.1\CaesarCipher.AssemblyInfoInputs.cache
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\CaesarCipher\obj\Debug\netcoreapp2.1\CaesarCipher.AssemblyInfo.cs
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\CaesarCipher\obj\Debug\netcoreapp2.1\CaesarCipher.dll
+D:\SoftUni\TECHNOLOGY FUNDAMENTALS\StringAndTextProcessing\CaesarCipher\obj\Debug\netcoreapp2.1\CaesarCipher.pdb

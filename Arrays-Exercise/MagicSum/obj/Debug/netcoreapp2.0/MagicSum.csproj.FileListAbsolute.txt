@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\MagicSum\bin\Debug\netcoreapp2.0\MagicSum.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\MagicSum\bin\Debug\netcoreapp2.0\MagicSum.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\MagicSum\bin\Debug\netcoreapp2.0\MagicSum.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\MagicSum\bin\Debug\netcoreapp2.0\MagicSum.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\MagicSum\bin\Debug\netcoreapp2.0\MagicSum.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\MagicSum\obj\Debug\netcoreapp2.0\MagicSum.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\MagicSum\obj\Debug\netcoreapp2.0\MagicSum.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\MagicSum\obj\Debug\netcoreapp2.0\MagicSum.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\MagicSum\obj\Debug\netcoreapp2.0\MagicSum.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-Exercise\MagicSum\obj\Debug\netcoreapp2.0\MagicSum.pdb

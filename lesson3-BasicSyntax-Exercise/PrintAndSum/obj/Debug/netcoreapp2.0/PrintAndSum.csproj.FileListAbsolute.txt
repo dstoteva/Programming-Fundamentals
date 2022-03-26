@@ -1,0 +1,11 @@
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PrintAndSum\bin\Debug\netcoreapp2.0\PrintAndSum.deps.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PrintAndSum\bin\Debug\netcoreapp2.0\PrintAndSum.runtimeconfig.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PrintAndSum\bin\Debug\netcoreapp2.0\PrintAndSum.runtimeconfig.dev.json
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PrintAndSum\bin\Debug\netcoreapp2.0\PrintAndSum.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PrintAndSum\bin\Debug\netcoreapp2.0\PrintAndSum.pdb
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PrintAndSum\obj\Debug\netcoreapp2.0\PrintAndSum.csprojAssemblyReference.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PrintAndSum\obj\Debug\netcoreapp2.0\PrintAndSum.csproj.CoreCompileInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PrintAndSum\obj\Debug\netcoreapp2.0\PrintAndSum.AssemblyInfoInputs.cache
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PrintAndSum\obj\Debug\netcoreapp2.0\PrintAndSum.AssemblyInfo.cs
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PrintAndSum\obj\Debug\netcoreapp2.0\PrintAndSum.dll
+D:\всичко\SoftUni\TECHNOLOGY FUNDAMENTALS\lesson3-BasicSyntax-Exercise\PrintAndSum\obj\Debug\netcoreapp2.0\PrintAndSum.pdb

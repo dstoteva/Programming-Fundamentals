@@ -1,0 +1,7 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\Hogswatch\bin\Debug\Hogswatch.exe.config
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\Hogswatch\bin\Debug\Hogswatch.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\Hogswatch\bin\Debug\Hogswatch.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\Hogswatch\obj\Debug\Hogswatch.csprojAssemblyReference.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\Hogswatch\obj\Debug\Hogswatch.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\Hogswatch\obj\Debug\Hogswatch.exe
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\Arrays-MoreExercise\Hogswatch\obj\Debug\Hogswatch.pdb

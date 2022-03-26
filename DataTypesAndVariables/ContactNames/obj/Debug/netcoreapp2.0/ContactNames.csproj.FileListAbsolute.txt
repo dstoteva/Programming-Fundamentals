@@ -1,0 +1,10 @@
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\ContactNames\bin\Debug\netcoreapp2.0\ContactNames.deps.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\ContactNames\bin\Debug\netcoreapp2.0\ContactNames.runtimeconfig.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\ContactNames\bin\Debug\netcoreapp2.0\ContactNames.runtimeconfig.dev.json
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\ContactNames\bin\Debug\netcoreapp2.0\ContactNames.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\ContactNames\bin\Debug\netcoreapp2.0\ContactNames.pdb
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\ContactNames\obj\Debug\netcoreapp2.0\ContactNames.csproj.CoreCompileInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\ContactNames\obj\Debug\netcoreapp2.0\ContactNames.AssemblyInfoInputs.cache
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\ContactNames\obj\Debug\netcoreapp2.0\ContactNames.AssemblyInfo.cs
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\ContactNames\obj\Debug\netcoreapp2.0\ContactNames.dll
+D:\all\SoftUni\TECHNOLOGY FUNDAMENTALS\DataTypesAndVariables\ContactNames\obj\Debug\netcoreapp2.0\ContactNames.pdb
